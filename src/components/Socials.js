@@ -13,10 +13,10 @@ const socials = [
         icon: "fa-brands fa-app-store-ios",
         link: "https://apps.apple.com/us/developer/brashan-mohanakumar/id1725750347"
     },
-    {
-        icon: "fa-solid fa-envelope",
-        link: "mailto: bmohanak@uwaterloo.ca"
-    },
+    // {
+    //     icon: "fa-solid fa-envelope",
+    //     link: "mailto: bmohanak@uwaterloo.ca"
+    // },
     // {
     //     icon: "fa-solid fa-file-lines",
     //     link: ""
