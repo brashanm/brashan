@@ -36,9 +36,9 @@ const EasterEggs = () => {
     'Xcode quit unexpectedly. (for the third time today)',
     'Goroutines solved all my life problems',
     'Exploring the Grand Line',
+    'Live, Laugh, Love',
     'Looking for the Dragon Balls',
     'Dropped as a baby',
-    'Hi, have you met Ted?',
     'Something exciting is on the horizon...',
   ].sort(() => Math.random() - 0.5);
 
