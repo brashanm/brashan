@@ -1,5 +1,5 @@
 import { styled } from "styled-components";
-import portrait from "../assets/Portrait.png"
+import happyPortrait from "../assets/happyPortrait.png"
 import EasterEggs from "./Typewriter"
 import internships from "../data/internships";
 import hobbies from "../data/hobbies";
@@ -94,7 +94,7 @@ function Home() {
     return (
         <Wrapper>
             <Header>
-                <Headshot src={portrait} alt="portrait"></Headshot>
+                <Headshot src={happyPortrait} alt="portrait"></Headshot>
                 <Top>
                     <Title>
                         Hey there, I'm Brashan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="90" height="90" />
