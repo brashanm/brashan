@@ -105,8 +105,8 @@ function Home() {
             <EasterEggs />
             <Body>
                 <Block>
-                    <b>Welcome to my (small) slice of the internet!</b> I'm a 3B Computer Science student at the University of Waterloo.
-                    This summer, I was doing some really cool stuff as a front-end software developer at <Linked href={"https://www.linkedin.com/company/scrawlr/"} target="_blank">Scrawlr</Linked>, the future of unconstrained, global interaction on the internet.
+                    <b>Welcome to my (small) slice of the internet!</b> I'm a 4A Computer Science student at the University of Waterloo.
+                    Last summer, I was doing some really cool stuff as a front-end software developer at <Linked href={"https://www.linkedin.com/company/scrawlr/"} target="_blank">Scrawlr</Linked>, the future of unconstrained, global interaction on the internet.
                 </Block>
                 <Block>
                     <List description="Previously, I..." items={internships} />
