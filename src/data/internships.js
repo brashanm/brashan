@@ -1,5 +1,11 @@
 const internships = [
     {
+        description: "crafted getaways as a front-end software developer @",
+        company: "Scrawlr",
+        emoji: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="30" height="30" />,
+        link: "https://www.linkedin.com/company/scrawlr/",
+    },
+    {
         description: "laced up success as a full-stack developer @",
         company: "TTD-Kicks",
         emoji: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Running%20Shoe.png" alt="Running Shoe" width="30" height="30" />,

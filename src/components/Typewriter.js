@@ -31,6 +31,7 @@ const EasterEggs = () => {
     'You stay classy, San Diego',
     'Diamond 1 in Valorant',
     'Platinum 2 in Rainbow Six Siege',
+    'Gold 1 in Marvel Rivals',
     'Go > Rust',
     'Currently stuck in App Store approval...',
     'Xcode quit unexpectedly. (for the third time today)',
@@ -38,7 +39,7 @@ const EasterEggs = () => {
     'Exploring the Grand Line',
     'Live, Laugh, Love',
     'Looking for the Dragon Balls',
-    'Dropped as a baby',
+    'Trying to find the One Piece',
     'Something exciting is on the horizon...',
   ].sort(() => Math.random() - 0.5);
 
