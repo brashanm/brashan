@@ -106,7 +106,7 @@ function Home() {
             <Body>
                 <Block>
                     <b>Welcome to my (small) slice of the internet!</b> I'm a 4B Computer Science student at the <Linked href="https://uwaterloo.ca/" target="_blank">University of Waterloo</Linked>.
-                    This summer, I'll be doing some really cool stuff as a software engineering intern at <Linked href={"https://www.linkedin.com/company/stackadapt/"} target="_blank">StackAdapt</Linked>, on the Customer Data Platform team.
+                    Last summer and fall, I did some really cool stuff as a software engineering intern at <Linked href={"https://www.linkedin.com/company/stackadapt/"} target="_blank">StackAdapt</Linked>, on the Customer Data Platform team.
                 </Block>
                 <Block>
                     <List description="Previously, I..." items={internships} />
